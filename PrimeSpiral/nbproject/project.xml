@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Copyright (c) 2008 Sun Microsystems, Inc. All rights reserved.
+    Use is subject to license terms.
+-->
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.kjava.j2meproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/j2me-project">
+            <name>PrimeSpiral</name>
+            <minimum-ant-version>1.6</minimum-ant-version>
+        </data>
+    </configuration>
+</project>
